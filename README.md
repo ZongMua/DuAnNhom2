@@ -2,8 +2,8 @@
 
 ###### Thời gian: <u>2024-11-30 21:24</u>
 
-<p style="opacity: 1.4">
-<strong style="color: red">Thông báo: </strong>
+<p >
+<strong>Thông báo: </strong>
 Bài viết có thể vẫn còn nhiều thiếu sót nhưng yêu cầu các bạn đọc hết để có thể hiểu ý tưởng của mình và cùng thực bài nghiên cứu khoa học
 </p>
 
@@ -11,8 +11,8 @@ Bài viết có thể vẫn còn nhiều thiếu sót nhưng yêu cầu các b�
 
 ### I. Lý do lựa chọn:
 
-2. Đúng với lĩnh vực của ngành Công nghệ thông tin
-3. Nhìn thấy thực trạng tìm kiếm công việc khá khó khăn của sinh:
+1. Đúng với lĩnh vực của ngành Công nghệ thông tin
+2. Nhìn thấy thực trạng tìm kiếm công việc khá khó khăn của sinh:
    - Phải tự đi tìm trên các trang mạng xã hội
      - Tốn thời gian
      - Tốn công sức
@@ -21,7 +21,7 @@ Bài viết có thể vẫn còn nhiều thiếu sót nhưng yêu cầu các b�
      - Tốn thời gian
      - Truyền qua thường là người quen nên người ngoài dễ mất cơ hội
    - Không tìm thấy công việc phù hợp
-4. Sinh viên thời điểm hiện tại rất năng động
+3. Sinh viên thời điểm hiện tại rất năng động
    - Mong muốn tự lập, không quá phụ thuộc vào giao đình
    - Mong muốn có thu nhập để có thể trang trải cho các hoạt động cá nhân
    - Gia đình khó khăn nên phải tự lo cho bản thân
@@ -38,7 +38,7 @@ Bài viết có thể vẫn còn nhiều thiếu sót nhưng yêu cầu các b�
 - Người tìm công việc cũng sẽ dễ dàng để biết được số lượng người đang cần tuyển dụng và khi đăng ký cũng biết được còn lại bao nhiêu suất
 - Liên kết các bên tuyển công việc để sinh viên dễ dàng hơn trong tìm kiếm việc làm
 
-#### => <span style="color: red">MỤC TIÊU CUỐI CÙNG:</span> Giúp cho việc tìm kiếm việc làm thêm trở nên dễ dàng (Sinh viên không phải đối tượng duy nhất tuy nhiên là đối tượng hướng tới hiện tại)
+#### => MỤC TIÊU CUỐI CÙNG: Giúp cho việc tìm kiếm việc làm thêm trở nên dễ dàng (Sinh viên không phải đối tượng duy nhất tuy nhiên là đối tượng hướng tới hiện tại)
 
 ---
 
@@ -60,6 +60,6 @@ Bài viết có thể vẫn còn nhiều thiếu sót nhưng yêu cầu các b�
 
 ---
 
-<p style="opacity: 1.4">
+<p >
 Nội dung bài viết được xây dựng bởi <u>Mùa A Giống</u>
 </p>
