@@ -94,7 +94,7 @@ Bài viết có thể vẫn còn nhiều thiếu sót nhưng yêu cầu các b�
 
 ![](./img/log_in_page.png)
 
-`Lưu ý: đây chỉ là nhũng bản thô được tạo ra bằng Canva, chưa phải sản phâm rồi hoàn thiện.`
+`Lưu ý: đây chỉ là nhũng bản thô được tạo ra bằng Canva, chưa phải sản phẩm hoàn thiện.`
 
 ---
 
