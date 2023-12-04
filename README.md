@@ -1,103 +1,44 @@
-# Tại sao lựa chọn ý tưởng: <u>Trang web hỗ trợ tìm kiếm việc thêm cho sinh viên</u>?
+## Đề tài: Tìm hiểu và nghiên cứu trang web hỗ trợ tìm kiếm việc làm thêm cho sinh viên.
 
-###### Thời gian: <u>2024-11-30 21:24</u>
+#### LỜI MỞ ĐẦU:
 
-<p >
-<strong>Lưu ý: </strong>
-Bài viết có thể vẫn còn nhiều thiếu sót nhưng yêu cầu các bạn đọc hết để có thể hiểu ý tưởng của mình và cùng thực bài nghiên cứu khoa học.
-</p>
+##### Thế giới hiện nay đang có những sự phát triển vượt bậc không ngừng nghỉ của công nghệ, đặc biệt là trong bối cảnh của cuộc cách mạng công nghệ 4.0. Sự xuất hiện của mạng Internet chính là một trong những thành tựu to lớn của cả thế giới đã giúp cho cả thể giới liên kết lại như một "Thế giới phẳng", đặc biệt là nhờ vào sự xuất hiện của các mạng xã hội như Facebook, Twitter,...
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.U7PIrBNXSEHcpvUfvYiwbwHaEn%26pid%3DApi&f=1&ipt=d6c62a829ab5be9a093fd491eecac5821587741102881c6b4947cad409eb896e&ipo=images)
+##### Từ sự xuất hiện và phát triển đó thì nhu cầu mong muốn tìm kiếm một công việc nhanh chóng, đơn giản và phù hợp lại càng tăng cao. Từ đó dẫn tới việc những trang web hỗ trợ tìm kiếm việc làm online bắt đầu xuất hiện để đáp ứng nhu cầu đó của người dùng.
 
-## I. Mở đầu
-
-### 1. <u>Lý do lựa chọn đề tài:</u>
-
--- Đúng với lĩnh vực của ngành Công nghệ thông tin. <br>
--- Nhìn thấy thực trạng tìm kiếm công việc khá khó khăn của sinh:
-
-- Phải tự đi tìm trên các trang mạng xã hội:
-  - Tốn thời gian;
-  - Tốn công sức;
-- Những bài tìm tuyển thường dễ bị trôi -> bỏ lỡ cơ hội.
-- Truyền từ người này sang người khác:
-  - Tốn thời gian;
-  - Truyền qua thường là người quen nên người ngoài dễ mất cơ hội;
-- Không tìm thấy công việc phù hợp.
-
--- Sinh viên thời điểm hiện tại rất năng động:
-
-- Mong muốn tự lập, không quá phụ thuộc vào giao đình;
-- Mong muốn có thu nhập để có thể trang trải cho các hoạt động cá nhân;
-- Gia đình khó khăn nên phải tự lo cho bản thân;
-
-### 2. <u>Đối tượng và phạm vi nghiên cứu:</u>
-
--- Phạm vi:
-
-- Phạm vi nhỏ: trong lớp 46CNTT2.
-
--- Đối tượng:
-
-- Đối tượng: Tất cả mọi người, tập trung vào sinh viên.
-
-### 3. <u>Mục đích nghiên cứu của dự án:</u>
-
-- Sinh viên dễ dàng tìm kiếm công việc phù hợp với bản thân.
-- Giúp cho các bên tuyển dụng dễ dàng tìm kiếm được người phù hợp.
-- Giúp cho 2 bên dễ liên lạc.
-- Sinh viên không bị bỏ lỡ bài đăng của bên tuyển dụng:
-  - Bài tìm việc không bị trôi vì hoàn toàn tâp trung vào việc tìm kiếm công việc chứ không hề liên quan đến việc giải trí;
-- Người tìm công việc cũng sẽ dễ dàng để biết được số lượng người đang cần tuyển dụng và khi đăng ký cũng biết được còn lại bao nhiêu suất.
-- Liên kết các bên tuyển công việc để sinh viên dễ dàng hơn trong tìm kiếm việc làm.
-
-> #### => MỤC ĐÍCH CUỐI CÙNG: Giúp cho việc tìm kiếm việc làm thêm trở nên dễ dàng (Sinh viên không phải đối tượng duy nhất tuy nhiên là đối tượng hướng tới hiện tại).
-
-### 4. <u>Phương pháp nghiên cứu:</u>
-
-- Xây dựng một bản thô của trang web (giao diện - không sử dụng được).
-- Tìm kiếm thông tin về thực trạng sinh viên khó khăn trong việc tìm kiếm việc làm thêm.
-- Thực hiện khảo sát sinh viên:
-
-  - Sinh viên đang đi làm;
-  - Sinh viên chưa đi làm và mong muốn đi làm;
-
-### 5. <u>Ý nghĩa khoa học và giá trị thực tiễn của đề tài:</u> (Đang thêm...)
+##### Thấy được hiện tượng này, đặc biệt là ở các bạn sinh viên - những người luôn mong muốn tìm kiếm được một công việc nhanh chóng mà còn phải phù hợp với bản thân, nhóm 2 đã quyết định lựa chọn đề tài: " Tìm hiểu và nghiên cứu trang web hỗ trợ tìm kiếm việc làm thêm cho sinh viên". Qua đó không chỉ để đáp ứng nhu cầu của xã hội, mà còn làm rõ vai trò của việc ứng dụng công nghệ vào trong việc hỗ trợ tìm kiếm việc làm thêm.
 
 ---
 
-## II. Nội dung
+### A. Mở đầu
 
-- Xây dựng biểu đồ
-- Hình ảnh
-- v.v...
+#### I. LÝ DO LỰA CHỌN ĐỀ TÀI
 
----
+1. Lý do chủ quan: <br>
+   Công việc tạo nên trang web để hỗ trợ mọi người, đặc biệt là đối với các bạn sinh viên trong việc tìm kiếm việc làm thêm không chỉ là đúng với lĩnh vực CNTT mà nhóm 1 đang theo học, mà còn là niềm đam mê và khát vọng để cống hiến một phần nhỏ cho xã hội.
 
-## III. BẢN THÔ CỦA TRANG WEB
+2. Lý do khách quan:
 
-### Tên trang web: PJs (Part-time Jobs)
+- Nhu cầu tìm việc làm thêm của mọi người đang ngày càng gia tăng, đặc biệt là ở các bạn sinh viên. Nhóm 2 nhận thấy đặc điểm chung của các bạn sinh viên bây giờ đó là các bạn đều rất năng động, sẵn sàng tìm kiếm một công việc làm thêm để có thể tự hỗ trợ cho bản thân và giảm tải gánh nặng tài chính lên gia đình.
+- Mọi người hầu hết đều tìm kiếm công việc làm thêm chủ yếu là thông qua MXH như Facebook hoặc liên hệ qua Zalo, tuy nhiên lại có một số điểm bất cập như sau:
+  - Tốn thời gian: Phải mất nhiều thời gian để tìm kiếm một công việc phù hợp với bản thân.
+  - Tốn công sức: Việc tìm kiếm các bài đăng tìm kiếm việc làm dễ bị trôi do sự xuất hiện của các bài đăng khác không liên quan đến việc tìm việc làm từ đó dẫn tới việc dễ bị mất cơ hội để tìm được việc.
+  - Việc giới thiệu công việc làm thêm thường được giới thiệu thông qua những người đã quen biết nhau, từ đó khiến cho những người khác khó khăn hơn cho việc tìm kiếm.
 
-### <u>Logo</u>
+#### II. MỤC TIÊU VÀ NHIỆM VỤ NGHIÊN CỨU:
 
-![PJs Logo](./img/PJs_Logo.png)
+1. Mục tiêu:
 
-#### <u>Màn hình giới thiệu</u>
+   - Tìm hiểu và nghiên cứu trang web thân thiện và dễ dàng sử dụng để hỗ trợ tìm kiếm công việc làm thêm.
 
-![](./img/intro_page.png)
+2. Nhiệm vụ:
+   - Mô tả thực trạng trong việc tìm kiếm việc làm thêm hiện nay.
+   - Phân tích điểm yếu của những trang web hỗ trợ tìm kiếm việc làm đã có trước đây.
+   - Đưa ra những điểm mới của trang web mà nhóm 1 đang muốn hướng tới.
+   - Đưa ra một số bản phác thảo của trang web.
 
-#### <u>Màn hình đăng ký</u>
+#### III. ĐỐI TƯỢNG VÀ KHÁCH THỂ NGHIÊN CỨU:
 
-![](./img/log_up_page.png)
+1. Đối tượng nghiên cứu: (Đang bổ sung...)
 
-#### <u>Màn hình đăng nhập</u>
-
-![](./img/log_in_page.png)
-
-`Lưu ý: đây chỉ là nhũng bản thô được tạo ra bằng Canva, chưa phải sản phẩm hoàn thiện.`
-
----
-
-<p >
-Nội dung bài viết được xây dựng bởi <u>Mùa A Giống</u>
-</p>
+2. Khách thể nghiên cứu:(Đang bổ sung...)
