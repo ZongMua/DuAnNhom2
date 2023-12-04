@@ -34,7 +34,7 @@
 2. Nhiệm vụ:
    - Mô tả thực trạng trong việc tìm kiếm việc làm thêm hiện nay.
    - Phân tích điểm yếu của những trang web hỗ trợ tìm kiếm việc làm đã có trước đây.
-   - Đưa ra những điểm mới của trang web mà nhóm 1 đang muốn hướng tới.
+   - Đưa ra những điểm mới của trang web mà nhóm 2 đang muốn hướng tới.
    - Đưa ra một số bản phác thảo của trang web.
 
 #### III. ĐỐI TƯỢNG VÀ KHÁCH THỂ NGHIÊN CỨU:
@@ -42,3 +42,7 @@
 1. Đối tượng nghiên cứu: (Đang bổ sung...)
 
 2. Khách thể nghiên cứu:(Đang bổ sung...)
+
+---
+
+NHÓM 2
