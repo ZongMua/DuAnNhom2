@@ -2,7 +2,7 @@
 
 #### LỜI MỞ ĐẦU:
 
-##### Trong thời kỳ ngày nay sinh viên đang đối mặt với nhiều thách thức trong việc cân bằng giữa học tập và đáp ứng nhu cầu tài chính cá nhân. Việc làm thêm không chỉ mang lại nguồn thu nhập cần thiết mà còn giúp sinh viên phát triển kỹ năng thực tế và xây dựng mạng lưới quan hệ chuyên nghiệp từ khi còn ở trong trường đại học. Trong bối cảnh này, sự xuất hiện của các trang web hỗ trợ tìm kiếm việc làm thêm đã trở thành một yếu tố quan trọng, đóng vai trò là cầu nối giữa sinh viên và thị trường lao động đang đòi hỏi.
+##### Trong thời điểm hiện tại sinh viên đang đối mặt với nhiều thách thức trong việc cân bằng giữa học tập và đáp ứng nhu cầu tài chính cá nhân. Việc làm thêm không chỉ mang lại nguồn thu nhập cần thiết mà còn giúp sinh viên phát triển kỹ năng thực tế và xây dựng mạng lưới quan hệ chuyên nghiệp từ khi còn ở trong trường đại học. Trong bối cảnh này, sự xuất hiện của các trang web hỗ trợ tìm kiếm việc làm thêm đã trở thành một yếu tố quan trọng, đóng vai trò là cầu nối giữa sinh viên và thị trường lao động đang đòi hỏi.
 
 ##### Thấy được nhu cầu đó, nhóm 2 quyết định lựa chọn đề tài: "Tìm hiểm và nghiên cứu trang web hỗ trợ tìm kiếm việc làm thêm cho sinh viên". Nghiên cứu nhằm tìm hiểu và nghiên cứu một cái nhìn toàn diện hơn về cách mà công nghệ có thể hỗ trợ sinh viên trong việc tìm kiếm công việc làm thêm từ đó đưa ra những đánh giá và đề xuất phù hợp cho việc vận dụng công nghệ vào tìm kiếm việc làm.
 
@@ -40,7 +40,7 @@
    - Đưa ra những điểm mới của trang web mà nhóm 2 đang muốn hướng tới.
    - Đưa ra một số bản phác thảo của trang web.
 
-#### III. ĐỐI TƯỢNG, KHÁCH THỂ NGHIÊN CỨU:
+#### III. ĐỐI TƯỢNG VÀ KHÁCH THỂ NGHIÊN CỨU:
 
 1. Đối tượng nghiên cứu:
 
