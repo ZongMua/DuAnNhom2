@@ -57,14 +57,13 @@
 
 #### IV. CÂU HỎI NGHIÊN CỨU:
 
-<!-- TODO: answer 5 questions -->
-
 ```
 1. why?
 2. when?
 3. where?
 4. who?
-5. How?
+5. What?
+6. How?
 ```
 
 1. Việc sử dụng trang web để tìm kiếm việc làm thêm có thực sự cần thiết hay không?
