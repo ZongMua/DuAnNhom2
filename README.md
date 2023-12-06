@@ -58,16 +58,17 @@
 #### IV. CÂU HỎI NGHIÊN CỨU:
 
 ```
-1. why?
-2. when?
-3. where?
-4. who?
-5. What?
-6. How?
+1. What: cái gì?
+2. When: khi nào?
+3. Where: ở đâu?
+4. Why: tại sao?
+5. Who: là ai?
+6. How: bằng cách nào?
 ```
 
-1. Việc sử dụng trang web để tìm kiếm việc làm thêm có thực sự cần thiết hay không?
-2. (...)
+1. Trang web hỗ trợ tìm kiếm việc làm thêm cho sinh viên là gì?
+2. Việc sử dụng trang web để tìm kiếm việc làm thêm có thực sự cần thiết hay không?
+3. (...)
 
 ---
 
