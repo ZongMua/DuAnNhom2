@@ -6,11 +6,11 @@
 
 ##### Thấy được nhu cầu đó, nhóm 2 quyết định lựa chọn đề tài: "Tìm hiểm và nghiên cứu trang web hỗ trợ tìm kiếm việc làm thêm cho sinh viên". Nghiên cứu nhằm tìm hiểu và nghiên cứu một cái nhìn toàn diện hơn về cách mà công nghệ có thể hỗ trợ sinh viên trong việc tìm kiếm công việc làm thêm từ đó đưa ra những đánh giá và đề xuất phù hợp cho việc vận dụng công nghệ vào tìm kiếm việc làm.
 
----
+#
 
-### A. Mở đầu
+### A. MỞ ĐẦU:
 
-#### I. LÝ DO LỰA CHỌN ĐỀ TÀI
+#### I. LÝ DO LỰA CHỌN ĐỀ TÀI:
 
 1. Lý do chủ quan: <br>
    Công việc tạo nên trang web để hỗ trợ mọi người, đặc biệt là đối với các bạn sinh viên trong việc tìm kiếm việc làm thêm không chỉ là đúng với lĩnh vực CNTT mà nhóm 2 đang theo học, mà còn là niềm đam mê và khát vọng để cống hiến một phần nhỏ cho xã hội.
@@ -40,7 +40,7 @@
    - Đưa ra những điểm mới của trang web mà nhóm 2 đang muốn hướng tới.
    - Đưa ra một số bản phác thảo của trang web.
 
-#### III. ĐỐI TƯỢNG, KHÁCH THỂ NGHIÊN CỨU VÀ PHẠM VI NGHIÊN CỨU:
+#### III. ĐỐI TƯỢNG, KHÁCH THỂ NGHIÊN CỨU:
 
 1. Đối tượng nghiên cứu:
 
@@ -50,26 +50,51 @@
 
    - Sinh viên lớp 46CNTT2 - Khoa CNTT của trường Đại học Công nghiệp Việt - Hung.
 
-3. Phạm vi nghiên cứu:
-   - Phạm vi thời gian: Nghiên cứu được thực hiện từ ngày 04/12/2023 đến ...
-   - Phạm vi không gian: Nghiên cứu được thực hiện tại lớp46CNTT2 - Khoa CNTT của trường Đại học Công nghiệp Việt - Hung.
-   - Phạm vi nội dung: Nghiên cứu tập trung và mô tả việc áp dụng trang web vào hỗ trợ việc tìm kiếm việc làm thêm cho sinh viên và đưa ra bản phác thảo của trang web mà nhóm tự thiết kế.
-
 #### IV. CÂU HỎI NGHIÊN CỨU:
 
-```
-1. What: cái gì?
-2. When: khi nào?
-3. Where: ở đâu?
-4. Why: tại sao?
-5. Who: là ai?
-6. How: bằng cách nào?
-```
-
 1. Trang web hỗ trợ tìm kiếm việc làm thêm cho sinh viên là gì?
-2. Việc sử dụng trang web để tìm kiếm việc làm thêm có thực sự cần thiết hay không?
-3. (...)
+   - Đó là gì? vấn đề ở đây là gì?
+   - Bối cảnh ở đây là gì?
+   - Đặc điểm tính cách của sản phẩm là gì?
+   - ...
+2. Tại sao trang web hỗ trợ sinh viên tìm kiếm việc làm lại cần thiết?
+   - Thực trạng hiện tại như thế nào?
+   - Nhu cầu hiện nay ra sao?
+   - ...
+3. Trang web sẽ được sử dụng ở đâu?
+   - Nền tảng là gì? (Mobile/Desktop)
+4. Khi nào thì trang web có thể đi vào hoạt động?
+   - Thời gian bắt đầu triển khai là khi nào?
+   - ...
+5. Ai là người chịu trách nghiệm, người tìm ra vấn đề hay nếu có phát sinh vấn đề thì liên hệ những ai? Khách hàng mục tiêu của sản phẩm là ai?
 
----
+6. Làm thế nào để xây dựng được trang web?
+   - Phương pháp là gì?
+   - Dự án tốn bao nhiêu tiền/công sức?
+   - Làm cách nào để thu hút được người dùng hướng tới sản phẩm?
+   - Làm thế nào để thêm hoàn thiện cho sản phẩm?
+
+#### V. PHẠM VI NGHIÊN CỨU:
+
+- Phạm vi thời gian: Nghiên cứu được thực hiện từ ngày 04/12/2023 đến ...
+- Phạm vi không gian: Nghiên cứu được thực hiện tại lớp46CNTT2 - Khoa CNTT của trường Đại học Công nghiệp Việt - Hung.
+- Phạm vi nội dung: Nghiên cứu tập trung và mô tả việc áp dụng trang web vào hỗ trợ việc tìm kiếm việc làm thêm cho sinh viên và đưa ra bản phác thảo của trang web mà nhóm tự thiết kế.
+
+#### VI. PHƯƠNG PHÁP NGHIÊN CỨU:
+
+1. Tìm kiếm và thu thâp thông tin trên Internet.
+2. Thực hiện khảo sát.
+3. Xác định mục tiêu.
+4. Tham khảo các trang web khác và thực hiện thiết kế bản mẫu của trang web.
+5. Xác định công cụ để phát triển trang web.
+6. Tiến hành phát triển và chạy thử trang web.
+
+#### VII. BỐ CỤC LUẬN VĂN:
+
+#
+
+### B. NỘI DUNG:
+
+#
 
 ###### NHÓM 2
