@@ -64,7 +64,7 @@
 - Khi nào thì trang web có thể đi vào hoạt động?
   - Thời gian bắt đầu triển khai là khi nào?
   - ...
-- Ai là người chịu trách nghiệm, người tìm ra vấn đề hay nếu có phát sinh vấn đề thì liên hệ những ai? Khách hàng mục tiêu của sản phẩm là ai?
+- Ai là người chịu trách nghiệm, người tìm ra vấn đề, nếu có phát sinh vấn đề thì liên hệ những ai? Khách hàng mục tiêu của sản phẩm là ai?
 
 - Làm thế nào để xây dựng được trang web?
   - Phương pháp là gì?
@@ -107,9 +107,12 @@
 
 TODO: add more:
 1. Bảng viết tắt.
+2. Mục lục. (outine)
+3. Lời cảm ơn.
 
 FIX:
 1. Xác định lại phương pháp.
 2. Chỉnh sửa lại văn bản.
+3. Căn chỉnh lề.
 
 -->
